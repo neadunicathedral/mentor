@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3" ><div class="well well-lg" style="background-color:green;text-align:center;color:white">
+        <i class="fa fa-desktop" style="font-size: 40px; color:white"></i><br><a href="https://ead.unicathedral.edu.br" target="_blank" style="color: white !important; text-decoration:none !important; font-size: 25px; color:white" class="notification">  Ambiente Virtual (AVA)</a>
+    </div></div>
+    
+    <div class="col-sm-3" ><div class="well well-lg" style="background-color:green;text-align:center;color:white; font-size: 25px; color:white">
+        <i class="fa fa-hand-o-up" style="font-size: 40px; color:white"></i><br><a href="https://unicathedral.mentorweb.ws/unicathedralMentorWebG5/jsf/requerimento/consulta/requerimentoSolicitadoCon.jsf" target="_top" style="color: white !important; text-decoration:none !important;" class="notification">  Meus Atendimentos</a>
+    </div></div>
+    
+       <div class="col-sm-3" ><div class="well well-lg" style="background-color:green;text-align:center;color:white; font-size: 25px; color:white">
+        <i class="fa fa-money" style="font-size: 40px; color:white"></i><br><a href="https://unicathedral.mentorweb.ws/unicathedralMentorWebG5/jsf/central/cal/financeiro.jsf" target="_top" style="color: white !important; text-decoration:none !important;" class="notification">  Financeiro</a>
+    </div></div>
+    
+        <div class="col-sm-3" ><div class="well well-lg" style="background-color:green;text-align:center;color:white; font-size: 25px; color:white">
+        <i class="fa fa-question-circle" style="font-size: 40px; color:white"></i><br><a href="https://unicathedral.edu.br/home/suporte-ao-aluno-ead/" target="_blank" style="color: white !important; text-decoration:none !important;" class="notification">  Suporte</a>
+    </div></div>
+        
+  </div>
+</div>
+
